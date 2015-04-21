@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Algorithmic Odyssey",
+    "packageVersion": "0.0.1",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "jtferns",
+    "githubRepository": "ao-slides"
+  }
+}
