@@ -1,1 +1,29 @@
-["index.md"]
+[
+    "index.md",
+    "game-plot-story.html",
+    "characters.html",
+    [
+      "project-requirements.html",
+      "advanced-project-requirements.html"
+    ],
+    "project-development.html",
+    "system-architecture.html",
+    "player-enemy-stats.html",
+    "actions.html",
+    "game-logic.html",
+    "artificial-intelligence.html",
+    "state-based-ai.html",
+    "a-a-star-pathfinding.html",
+    "ai-analysis.html",
+    "map-generation.html",
+    "map-noise-generation.html",
+    "controlling-noise.html",
+    "map-image.html",
+    "tilemapper-details.html",
+    "placing-players.html",
+    "timing-results.html",
+    "map-image-2.html",
+    "advanced-features-summary.html",
+    "screenshot.html",
+    "thanks-and-bye-bye.html"
+]

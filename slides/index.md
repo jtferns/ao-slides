@@ -1,4 +1,11 @@
-
 # Algorithmic Odyssey
 
-###### Coming soon!
+#### The Futile Journey to Defeat the Traveling Salesman
+
+A Game by
+
+Janoo Fernandes
+
+Raphael Landaverde
+
+Alejandro Pelaez
