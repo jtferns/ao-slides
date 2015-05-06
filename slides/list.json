@@ -2,10 +2,7 @@
     "index.md",
     "game-plot-story.html",
     "characters.html",
-    [
-      "project-requirements.html",
-      "advanced-project-requirements.html"
-    ],
+    "project-requirements.html",
     "project-development.html",
     "system-architecture.html",
     "player-enemy-stats.html",
